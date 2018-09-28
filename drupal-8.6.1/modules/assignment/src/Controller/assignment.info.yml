@@ -1,0 +1,5 @@
+name: Assignment
+type: module
+description: First Drupal 8 custom page
+core: 8.x
+package: Custom

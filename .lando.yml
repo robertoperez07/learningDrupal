@@ -1,0 +1,4 @@
+name: learning-drupal-app
+recipe: drupal8
+config:
+  webroot: .
